@@ -45,8 +45,8 @@
                 img(src="@/assets/curso/tema1/4.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 TAPE
-              p (Tool for Agroecology Performance Evaluation)
-              p Propuesta de la FAO que mide el desempeño agroecológico de predios y territorios con criterios técnicos, sociales y económicos. El IPPTA se inspira en su estructura de indicadores y su articulación con políticas públicas agroecológicas. (Namirembe et al., 2022)
+              p <i>(Tool for Agroecology Performance Evaluation)</i>
+              p Propuesta de la FAO que mide el desempeño agroecológico de predios y territorios con criterios técnicos, sociales y económicos. El IPPTA se inspira en su estructura de indicadores y su articulación con políticas públicas agroecológicas. <i>(Namirembe et al., 2022)</i>
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure

@@ -122,8 +122,8 @@ export default {
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero.', esCorrecta: false },
-            { id: 'b', texto: 'Falso.', esCorrecta: true },
+            { id: 'a', texto: 'Verdadero.', esCorrecta: true },
+            { id: 'b', texto: 'Falso.', esCorrecta: false },
           ],
           mensaje_correcto:
             'Correcto. Es una estrategia regenerativa para el paisaje predial.',

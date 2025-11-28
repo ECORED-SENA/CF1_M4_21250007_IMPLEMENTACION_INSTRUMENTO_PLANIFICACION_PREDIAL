@@ -243,13 +243,13 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                  p.mb-0 Subsistema Nacional de Investigación y Desarrollo Tecnológico Agropecuario
+                  p.mb-0 Subsistema Nacional de Investigación y Desarrollo Tecnológico Agropecuario.
                 li.mb-0.d-flex
                   i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                  p.mb-0 Subsistema Nacional de Extensión Agropecuaria
+                  p.mb-0 Subsistema Nacional de Extensión Agropecuaria.
                 li.mb-0.d-flex
                   i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                  p.mb-0 Subsistema Nacional de Formación y Capacitación para la Innovación Agropecuaria
+                  p.mb-0 Subsistema Nacional de Formación y Capacitación para la Innovación Agropecuaria.
           
           .div(titulo="Principios orientadores")
             .ms-5
@@ -257,19 +257,19 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                  p.mb-0 Enfoque territorial y diferencial
+                  p.mb-0 Enfoque territorial y diferencial.
                 li.mb-0.d-flex
                   i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                  p.mb-0 Participación de productores como agentes de innovación
+                  p.mb-0 Participación de productores como agentes de innovación.
                 li.mb-0.d-flex
                   i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                  p.mb-0 Articulación con sistemas de educación, ambiente, crédito y competitividad
+                  p.mb-0 Articulación con sistemas de educación, ambiente, crédito y competitividad.
                 li.mb-0.d-flex
                   i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                  p.mb-0 Reconocimiento de saberes locales y ancestrales
+                  p.mb-0 Reconocimiento de saberes locales y ancestrales.
                 li.mb-0.d-flex
                   i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                  p.mb-0 Desarrollo sostenible y seguridad alimentaria
+                  p.mb-0 Desarrollo sostenible y seguridad alimentaria.
 
     
           .div(titulo="Sistemas Territoriales de Innovación Agropecuaria (STI)")
@@ -390,16 +390,16 @@
                 ul.lista-ul--color
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 Conservación in situ de semillas nativas y criollas
+                    p.mb-0 Conservación in situ de semillas nativas y criollas.
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 Intercambio comunitario de semillas
+                    p.mb-0 Intercambio comunitario de semillas.
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
                     p.mb-0 Fortalecimiento de bancos de semillas locales
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 Reconocimiento del vínculo entre biodiversidad agrícola y soberanía cultural
+                    p.mb-0 Reconocimiento del vínculo entre biodiversidad agrícola y soberanía cultural.
 
     separador
     
@@ -467,64 +467,64 @@
               ul.lista-ul--color
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 Escuelas agroecológicas y territorios-escuela
+                    p.mb-0 Escuelas agroecológicas y territorios-escuela.
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 Investigación participativa y diálogo de saberes
+                    p.mb-0 Investigación participativa y diálogo de saberes.
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 Fortalecimiento de saberes ancestrales y populares
+                    p.mb-0 Fortalecimiento de saberes ancestrales y populares.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
                 img(src="@/assets/curso/tema3/34.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              h5 Producción y transición agroecológica
+              h5 Producción y transición agroecológica.
               ul.lista-ul--color
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 - Sustitución progresiva de agrotóxicos
+                    p.mb-0 Sustitución progresiva de agrotóxicos.
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 Uso de bioinsumos
+                    p.mb-0 Uso de bioinsumos.
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 Planes prediales agroecológicos y herramientas como el IPPTA
+                    p.mb-0 Planes prediales agroecológicos y herramientas como el IPPTA.
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 Diversificación productiva y prácticas regenerativas
+                    p.mb-0 Diversificación productiva y prácticas regenerativas.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
                 img(src="@/assets/curso/tema3/35.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              h5 Distribución, comercialización y consumo con base agroecológica
+              h5 Distribución, comercialización y consumo con base agroecológica.
               ul.lista-ul--color
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
                     p.mb-0 Sistemas Participativos de Garantía (SPG)
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 Circuitos cortos, mercados campesinos, tiendas agroecológicas
+                    p.mb-0 Circuitos cortos, mercados campesinos, tiendas agroecológicas.
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 Promoción del consumo responsable y la soberanía alimentaria
+                    p.mb-0 Promoción del consumo responsable y la soberanía alimentaria.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
                 img(src="@/assets/curso/tema3/36.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              h5 Agrobiodiversidad, sistemas bioculturales y crisis climática
+              h5 Agrobiodiversidad, sistemas bioculturales y crisis climática.
               ul.lista-ul--color
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 Conservación y gestión comunitaria de la agrobiodiversidad
+                    p.mb-0 Conservación y gestión comunitaria de la agrobiodiversidad.
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
                     p.mb-0 Reconocimiento de sistemas bioculturales
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 Resiliencia territorial y transición productiva ante el cambio climático
+                    p.mb-0 Resiliencia territorial y transición productiva ante el cambio climático.
     
     p.mb-5 A continuación, se presenta un video  que expone los criterios orientadores de una política territorial, ética y técnica, fundamentada en enfoques integradores que promueven la inclusión, la diversidad y la justicia ambiental.
 
@@ -532,7 +532,7 @@
       .px-4.px-md-5
         figure.mb-5
           .video.mb-2
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/xSEpl6HMlTU?si=sufOpAnGbooPVrt1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           figcaption Video: Leyenda del video
 
     

@@ -75,13 +75,13 @@
                 ul.lista-ul--color
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 <b>Recorridos interpretativos</b>: Caminatas por el predio que permiten observar, dialogar y registrar elementos clave del agroecosistema, partiendo de la experiencia cotidiana de la familia.
+                    p.mb-0 <b>Recorridos interpretativos</b>: caminatas por el predio que permiten observar, dialogar y registrar elementos clave del agroecosistema, partiendo de la experiencia cotidiana de la familia.
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 <b>Entrevistas familiares</b>: Espacios de conversación que permiten comprender la historia del predio, las prácticas productivas, los roles familiares y las aspiraciones de transformación.
+                    p.mb-0 <b>Entrevistas familiares</b>: espacios de conversación que permiten comprender la historia del predio, las prácticas productivas, los roles familiares y las aspiraciones de transformación.
                   li.mb-0.d-flex
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                    p.mb-0 <b>Talleres vivenciales</b>: Encuentros colectivos donde se comparten experiencias, se construyen mapas colectivos, se priorizan acciones y se fortalecen capacidades organizativas.
+                    p.mb-0 <b>Talleres vivenciales</b>: encuentros colectivos donde se comparten experiencias, se construyen mapas colectivos, se priorizan acciones y se fortalecen capacidades organizativas.
         p Estos métodos permiten que el IPPTA sea una herramienta viva y contextualizada, que reconoce la voz y el saber de quienes habitan y transforman el territorio.
 
     separador
