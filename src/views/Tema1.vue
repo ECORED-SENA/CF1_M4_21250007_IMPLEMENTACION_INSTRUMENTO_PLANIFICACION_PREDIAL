@@ -17,7 +17,16 @@
             p.mb-0(data-aos="fade-up") El IPPTA (Instrumento de Planificación Predial para la Transición Agroecológica) surge como resultado de un proceso acumulativo de experiencias de acompañamiento territorial, extensión rural agroecológica y construcción colectiva de herramientas metodológicas. Su origen está profundamente ligado a la necesidad de contar con un instrumento que permita leer el predio desde una perspectiva integral, situada y participativa, articulando dimensiones ecológicas, sociales, culturales y organizativas.
     
     separador
+    p.mb-5 A continuación,  se presenta un video que explica el contexto del IPPTA. 
+
+    .bg-full-width.bg-color-9
+      .px-4.px-md-5
+        figure.mb-5
+          .video.mb-2
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/xSEpl6HMlTU?si=sufOpAnGbooPVrt1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video: Leyenda del video
     
+    separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.1 Antecedentes metodológicos
     
@@ -211,6 +220,15 @@
           .col-md-5.mb-4.mb-md-0.order-1
             figure
               img(src='@/assets/curso/tema1/20.png', alt='Texto que describa la imagen')
+
+          p.mb-5 Se invita a revisar el video donde se explica el Instrumento de Planificación Predial para la Transición Agroecológica, sus componentes y su utilidad en los procesos de transición: 
+
+    .bg-full-width.bg-color-9
+      .px-4.px-md-5
+        figure.mb-5
+          .video.mb-2
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/xSEpl6HMlTU?si=doUlwTNEuUGiEXrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video: Leyenda del video
     
     separador
     
