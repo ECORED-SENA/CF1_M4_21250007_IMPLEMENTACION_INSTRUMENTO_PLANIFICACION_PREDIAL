@@ -5,20 +5,7 @@ export default {
       'Este componente permite comprender el origen, propósito y estructura metodológica del IPPTA como instrumento técnico, pedagógico y político para la transición agroecológica. A partir del análisis participativo de las condiciones del predio, se orienta la identificación, agrupación y secuenciación de actividades situadas, articulando criterios técnicos, saberes locales y herramientas de planificación predial. Se reconocen ejemplos territoriales que validan el uso del IPPTA en contextos rurales diversos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
-      },
-      {
-        clases: ['banner-principal-decorativo-3'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
-      },
-    ],
+    imagenesDecorativasBanner: [],
   },
   menuPrincipal: {
     menu: [
