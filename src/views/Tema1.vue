@@ -7,16 +7,15 @@
         span 1
       h1 Origen, construcción y propósito del IPPTA
     
-    .bg-color-4.mb-5(data-aos="fade-up")
+    .bg-color-15.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
+        .col-lg
+          .p-4.text-white
+            p.mb-0(data-aos="fade-up") El IPPTA (Instrumento de Planificación Predial para la Transición Agroecológica) surge como resultado de un proceso acumulativo de experiencias de acompañamiento territorial, extensión rural agroecológica y construcción colectiva de herramientas metodológicas. Su origen está profundamente ligado a la necesidad de contar con un instrumento que permita leer el predio desde una perspectiva integral, situada y participativa, articulando dimensiones ecológicas, sociales, culturales y organizativas.
         .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
           figure
             img(src='@/assets/curso/tema1/1.png', alt='')
-        .col-lg
-          .p-4
-            p.mb-0(data-aos="fade-up") El IPPTA (Instrumento de Planificación Predial para la Transición Agroecológica) surge como resultado de un proceso acumulativo de experiencias de acompañamiento territorial, extensión rural agroecológica y construcción colectiva de herramientas metodológicas. Su origen está profundamente ligado a la necesidad de contar con un instrumento que permita leer el predio desde una perspectiva integral, situada y participativa, articulando dimensiones ecológicas, sociales, culturales y organizativas.
     
-    separador
     p.mb-5 A continuación,  se presenta un video que explica el contexto del IPPTA. 
 
     .bg-full-width.bg-color-9
@@ -223,6 +222,9 @@
 
           p.mb-5 Se invita a revisar el video donde se explica el Instrumento de Planificación Predial para la Transición Agroecológica, sus componentes y su utilidad en los procesos de transición: 
 
+
+    p.mb-5 Se invita a revisar el video donde se explica el Instrumento de Planificación Predial para la Transición Agroecológica, sus componentes y su utilidad en los procesos de transición: 
+
     .bg-full-width.bg-color-9
       .px-4.px-md-5
         figure.mb-5
@@ -303,15 +305,39 @@
                   h5.mb-2 03
                   p.mb-0 Articula saberes locales con políticas públicas agroecológicas
 
-        .bg-full-width.bg-color-7.mb-5
-          .px-4.px-md-5.py-4
-            .row.align-items-center
-              .col-lg-auto.mb-3.mb-lg-0
-                img(src="@/assets/curso/tema1/27.svg", style="max-width: 90px").mx-auto
-              .col-lg.text-white
-                p.mb-0 Más allá de una herramienta técnica, el IPPTA se consolida como un dispositivo pedagógico y territorial que impulsa la autonomía comunitaria y la transformación de los sistemas agroalimentarios hacia modelos sostenibles, justos y culturalmente arraigados. Estas experiencias muestran que la transición agroecológica se construye colectivamente, desde el territorio y con los saberes de quienes lo habitan.
+        //- .bg-full-width.bg-color-7.mb-5
+        //-   .px-4.px-md-5.py-4
+        //-     .row.align-items-center
+        //-       .col-lg-auto.mb-3.mb-lg-0
+        //-         img(src="@/assets/curso/tema1/27.svg", style="max-width: 90px").mx-auto
+        //-       .col-lg.text-white
+        //-         p.mb-0 Más allá de una herramienta técnica, el IPPTA se consolida como un dispositivo pedagógico y territorial que impulsa la autonomía comunitaria y la transformación de los sistemas agroalimentarios hacia modelos sostenibles, justos y culturalmente arraigados. Estas experiencias muestran que la transición agroecológica se construye colectivamente, desde el territorio y con los saberes de quienes lo habitan.
 
- 
+
+        .bg-color-18.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-lg-6
+              .p-4
+                p.mb-0 Más allá de una herramienta técnica, el IPPTA se consolida como un dispositivo pedagógico y territorial que impulsa la autonomía comunitaria y la transformación de los sistemas agroalimentarios hacia modelos sostenibles, justos y culturalmente arraigados. Estas experiencias muestran que la transición agroecológica se construye colectivamente, desde el territorio y con los saberes de quienes lo habitan.
+            .col-lg-6
+              img(src="@/assets/curso/tema1/29.svg")
+
+        //- .tarjeta debe ir acompañado de una de una de estas clases => 
+        //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+        //- estas clases tambien tienen un modificador --borde
+        .tarjeta.bg-color-16.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/tema1/28.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1.text-color-15 Experiencias del IPPTA
+                  p.text-small.text-white Se invita a visitar el material complementario y revisar el video Experiencias del IPPTA, un recurso que amplía la comprensión del proceso y aporta ejemplos cercanos al trabajo en territorio. 
+                .col-sm-auto
+                  a.boton.bg-color-17(href="https://www.linkedin.com/feed/update/urn:li:activity:7377069662511054849" target="_blank")
+                    span Ver video
+                    i.fas.fa-file-download
 </template>
 
 <script>
