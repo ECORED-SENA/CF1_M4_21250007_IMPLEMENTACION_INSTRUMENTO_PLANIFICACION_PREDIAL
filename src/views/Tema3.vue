@@ -401,6 +401,21 @@
                     i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
                     p.mb-0 Reconocimiento del vínculo entre biodiversidad agrícola y soberanía cultural.
 
+
+
+    .tarjeta.bg-color-16.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/tema3/56.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.mb-1.text-color-15 Instrumento de Planificación Predial para la Transición Agroecológica (IPPTA),
+              p.text-small.text-white Se invita a revisar el documento donde se explica el Instrumento de Planificación Predial para la Transición Agroecológica (IPPTA), sus componentes y su utilidad en los procesos de transición agroecológica.
+            .col-sm-auto
+              a.boton.bg-color-17(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
     separador
     
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
